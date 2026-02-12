@@ -136,4 +136,5 @@ with right_col:
             st.error("❗ Action Needed: Please provide both an image and an observation prompt.")
 
 # --- Footer ---
+
 st.markdown("<br><hr><p style='text-align: center; color: #64748b;'>© 2026 Engineering Insight Studio | AI-Driven Excellence</p>", unsafe_allow_html=True)
